@@ -1,7 +1,7 @@
 name: rank_icons
-description: "A icon set for rank mark."
+description: "An icon set for rank mark."
 version: 0.1.0
-homepage:
+homepage: https://github.com/andychucs/rank_icons
 
 environment:
   sdk: '>=3.4.4 <4.0.0'

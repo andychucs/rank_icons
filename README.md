@@ -1,6 +1,6 @@
 # rank_icons
 
-A icon set for rank mark.
+An icon set for rank mark.
 
 ## Getting Started
 
