@@ -32,9 +32,9 @@ class RankIconData extends IconData {
   ///
   /// The [matchTextDirection] parameter is whether to match the text direction.
   const RankIconData(
-      this.codePoint, {
-        this.fontFamily = iconFont,
-        this.fontPackage = iconFontPackage,
-        this.matchTextDirection = false,
-      }) : super(codePoint);
+    this.codePoint, {
+    this.fontFamily = iconFont,
+    this.fontPackage = iconFontPackage,
+    this.matchTextDirection = false,
+  }) : super(codePoint);
 }
