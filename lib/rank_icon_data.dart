@@ -36,5 +36,10 @@ class RankIconData extends IconData {
     this.fontFamily = iconFont,
     this.fontPackage = iconFontPackage,
     this.matchTextDirection = false,
-  }) : super(codePoint);
+  }) : super(
+          codePoint,
+          fontFamily: iconFont,
+          fontPackage: iconFontPackage,
+          matchTextDirection: false,
+        );
 }

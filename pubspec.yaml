@@ -1,7 +1,7 @@
 name: rank_icons
 description: "An icon set for rank mark. Provides some of the icons used to mark rank as Flutter Icons. "
 maintainer: Andy Chu (@andychucs)
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/andychucs/rank_icons
 repository: https://github.com/andychucs/rank_icons
 issue_tracker: https://github.com/andychucs/rank_icons/issues
